@@ -29,5 +29,4 @@ public class PrimeNumberImplementation extends ThreadMainClass implements Runnab
 			System.out.println(e.getMessage());
 		}
 	}
-	// Main method
 }
